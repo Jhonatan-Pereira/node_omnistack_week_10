@@ -1,0 +1,9 @@
+module.exports = {
+  mongo_db: {
+    host: '',
+    port: 27017,
+    database: '',
+    user: '',
+    password: ''
+  }
+}
