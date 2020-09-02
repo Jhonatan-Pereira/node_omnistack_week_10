@@ -31,7 +31,7 @@ npm run dev
 http://localhost:3333
 ```
 
-Projeto [frontend](https://github.com/Jhonatan-Pereira/vue_knowledge_base).
+Projeto [frontend](https://github.com/Jhonatan-Pereira/react_omnistack_week_10).
 
 ## Author
 
